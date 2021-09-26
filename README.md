@@ -1,3 +1,3 @@
 ﻿# gradientLoading
 
-available [here] (https://rostyslavostapyak.github.io/gradientLoading/)
+available [here](https://rostyslavostapyak.github.io/gradientLoading/)
